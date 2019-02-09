@@ -1,4 +1,4 @@
-;;; sane-windows.el --- Simple window management for emacs
+;;; sane-windows.el --- Simple window management for emacs -*- lexical-binding: t; -*-
 
 ;; Copyright (C) 2019 Jens Christian Jensen
 
